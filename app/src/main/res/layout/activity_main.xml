@@ -18,9 +18,9 @@
         android:id="@+id/textView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_margin="20dp"
+        android:layout_margin="15dp"
         android:fontFamily="sans-serif-light"
-        android:text="Happy Birthday, Neeru!"
+        android:text="Happy Birthday, Hari Krishna!"
         android:textColor="@android:color/white"
         android:textSize="36sp" />
 
@@ -30,6 +30,7 @@
         android:layout_height="wrap_content"
         android:visibility="visible"
         android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
         android:layout_alignParentBottom="true"
         android:text="From, Kuttralam!"
         android:fontFamily="sans-serif-light"
